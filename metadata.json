@@ -1,0 +1,6 @@
+{
+  "name": "AeroStream CFD & ML",
+  "description": "Automated CFD wind tunnel simulator and machine learning surrogate model optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
